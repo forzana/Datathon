@@ -1,5 +1,5 @@
 # Datathon: Track 2
-Rahul Das and Forzana Rime
+Forzana Rime and Rahul Das
 
 ## Background
 For this track, we were given the task to filter through L2 Political Data and deidentify it for appropriate public use. We were also asked to expand usability of the data. Although we were unable to process all the files provided, we have included the script needed to process the files and a sample file of processed data: [alaska-twopercent-sample.csv](alaska-twopercent-sample.csv). 
